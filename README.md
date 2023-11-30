@@ -32,7 +32,7 @@
 
 <h3 align="left">Social Account</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100004473100782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004473100782" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004473100782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100004473100782" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/mohamed_magdy_2112/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed_magdy_2112/" height="30" width="40" /></a>
 <a href="https://twitter.com/https://twitter.com/mohamed35787376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/mohamed35787376" height="30" width="40" /></a> 
 </p>
