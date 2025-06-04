@@ -11,7 +11,7 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - ⚡ I am a `Junior` Front-End Developer
-- :school: I am a `Last Year` Obour Institute
+- :school: I am a `Graduate of Obour Institutes` (Obour Institute)
 - 💻 I’m currently working Freelancer
 - 📫 How to reach me **mohamedmagdy21122002@gmail.com**
 - :technologist: **Currently working on** `Front-End Development` **&** `UI UX Design`
